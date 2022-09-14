@@ -1,0 +1,155 @@
+82kg	NNP
+82키로	NNP
+좆선	NNP
+김지영	NNP
+정규직	NNP
+비정규직	NNP
+시간제	NNP
+82년생	NNP
+구글	NNP
+출산률	NNP
+페미나치	NNP
+기레기	NNP
+82톤	NNP
+나라망신	NNP
+공감	NNP
+워킹맘	NNP
+코스프레	NNP
+폄훼	NNP
+페미	NNP
+페미니즘	NNP
+미세먼지	NNP
+가사분담	NNP
+82킬로	NNP
+남녀차별	NNP
+남녀 차별	NNP
+남녀갈등	NNP
+좌빨	NNP
+모쏠	NNP
+딸바보	NNP
+댓글	NNP
+노답	NNP
+개지영	NNP
+경단녀	NNP
+세뇌	NNP
+한남	NNP
+경력 단절	NNP
+경력단절	NNP
+가정 생활	NNP
+월급도둑	NNP
+월급 도둑	NNP
+경단녀	NNP
+여혐	NNP
+남혐	NNP
+한녀	NNP
+육아 휴직	NNP
+육아휴직	NNP
+생리휴가	NNP
+생리 휴가	NNP
+외벌이	NNP
+몸둥아리	NNP
+여성우대	NNP
+여성 우대	NNP
+성차별	NNP
+김치녀	NNP
+문재인	NNP
+전업주부	NNP
+맘충	NNP
+취집	NNP
+기상캐스터	NNP
+여성우월	NNP
+남성비하	NNP
+산후우울증	NNP
+프로파간다	NNP
+더치페이	NNP
+년생	NNP
+정의당	NNP
+노회찬	NNP
+여성 비하	NNP
+대박	NNP
+고소득	NNP
+극혐	NNP
+빠순이	NNP
+김나정	NNP
+박원순	NNP
+백래쉬	NNP
+82만톤	NNP
+외국여자	NNP
+한국여자	NNP
+외국 여자 	NNP
+한국 여자 	NNP
+문재앙	NNP
+심상정	NNP
+비정상	NNP
+메갈	NNP
+워마드	NNP
+키보드배틀	NNP
+키보드 배틀	NNP
+시선강간	NNP
+허경영	NNP
+한겨례	NNP
+동일노동	NNP
+동일 노동	NNP
+동일임금	NNP
+동일 임금	NNP
+양극화	NNP
+포퓰리즘	NNP
+개돼지	NNP
+군생활	NNP
+컬쳐	NNP
+새누리	NNP
+폭망	NNP
+남녀 평등	NNP
+카톡	NNP
+프사	NNP
+비호감	NNP
+배이비부머	NNP
+확대해석	NNP
+확대 해석	NNP
+순한맛	NNP
+출산율	NNP
+내로남불	NNP
+혼인율	NNP
+출산률	NNP
+혼인률	NNP
+더불당	NNP
+남녀 갈등	NNP
+남녀갈등	NNP
+꼴페미	NNP
+쉴드	NNP
+영혼 원정대	NNP
+영혼원정대	NNP
+다문화	NNP
+역주행	NNP
+띵작	NNP
+한남	NNP
+쿠도하루	NNP
+인스타	NNP
+업로드	NNP
+카카오페이지	NNP
+네이버	NNP
+불법촬영	NNP
+아이돌	NNP
+과대해석	NNP
+렏펨	NNP
+렙펨	NNP
+아이린	NNP
+여성영화	NNP
+탐라	NNP
+조남주	NNP
+금태섭	NNP
+정유미	NNP
+재배포 금지	NNP
+무단 전재	NNP
+새누리당	NNP
+신한국당	NNP
+국민의당	NNP
+국민의힘	NNP
+민주당	NNP
+더불어민주당	NNP
+자유한국당	NNP
+우리공화당	NNP
+정의당	NNP
+머니투데이	NNP
+경향신문	NNP
+
